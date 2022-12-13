@@ -30,10 +30,4 @@ I'm a Solution Engineer from :singapore:, and I am currently working @ [Kong](ht
 * AWS Solution Architect Professional
 * AWS Security Specialist
 
-### My Technical Blog Posts
-* [Moving to Pomerium Identity Aware Proxy](https://dev.to/robincher/moving-to-pomerium-identity-aware-proxy-4fom)
-* [Shifting Left - Secret as Code with Flux V2 and Mozilla SOPS](https://dev.to/robincher/shifting-left-secret-as-code-with-flux-v2-and-mozilla-sops-19cg)
-* [Securing your website via OIDC, powered by Kong and KeyCloak](https://dev.to/robincher/securing-your-site-via-oidc-powered-by-kong-and-keycloak-2ccc)
-* [Forwarding API Logs to your Observability System with Kong Gateway](https://konghq.com/blog/how-to-parse-and-forward-api-logs)
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=webdev0505&show_icons=true&theme=radical)
+#![My GitHub stats](https://github-readme-stats.vercel.app/api?username=webdev0505&show_icons=true&theme=radical)
