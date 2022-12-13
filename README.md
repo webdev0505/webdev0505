@@ -30,4 +30,4 @@ I'm a Solution Engineer from :singapore:, and I am currently working @ [Kong](ht
 * AWS Solution Architect Professional
 * AWS Security Specialist
 
-#![My GitHub stats](https://github-readme-stats.vercel.app/api?username=webdev0505&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=webdev0505&show_icons=true&theme=radical)
