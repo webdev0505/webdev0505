@@ -1,18 +1,14 @@
 ### Hi there, 👋
 
-I'm a Full Stack Engineer, and I am currently working @ [Kong](https://konghq.com) :gorilla: , a rocket-ship that is innovating at the cloud-connectivity space. Please reach out to me for chat on anything APIs, Service Mesh or Cloud-native stack!
+I'm a Full Stack Engineer. Please reach out to me for chat on anything, Service Mesh or Cloud-native stack!
 
 ### :notebook: I'm learning
 - Golang
 - Python for AI and ML
 - Deep-diving Kubernetes
-### :incoming_envelope: Contact
-<p align="left">
-<a href="https://www.linkedin.com/in/robincher/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="35" width="35" /></a> &nbsp;&nbsp;
-  <a href="mailto:webdev0505@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="35" width="35" /></a> &nbsp;&nbsp;
-</p>
 
 ### :footprints: Things i think i'm good at ..
+* Javascript(Express, Nest)
 * Kubernetes
 * Ansible
 * Terraform
@@ -21,17 +17,12 @@ I'm a Full Stack Engineer, and I am currently working @ [Kong](https://konghq.co
 * Cloud Computing and Networking
 * APIs
 
-### :luggage: My memories ..
-* DBS Bank  
-* Government Technology Agency of Singapore
-* Thales Airlab
-
 ### :receipt: Certifications
 * Certified Kubernetes Application Developer
 * AWS Solution Architect Professional
 * AWS Security Specialist
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=webdev0505&show_icons=true&theme=radical)
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=webdev0505&show_icons=true&theme=radical) -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
