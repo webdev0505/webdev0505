@@ -8,12 +8,11 @@ I'm a Full Stack Engineer. Please reach out to me for chat on anything, Service 
 - Deep-diving Kubernetes
 
 ### :footprints: Things i think i'm good at ..
-* Javascript(Express, Nest)
+* Java, Javascript, Typescript
 * Kubernetes
-* Ansible
 * Docker
-* Javascripts (React, Angular)
-* Java (Spring, Spring Boot)
+* Express, NestJS for backend side
+* React, Angular for frontend side
 * Cloud Computing and Networking
 * APIs
 
